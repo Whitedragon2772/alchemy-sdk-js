@@ -70,7 +70,7 @@
     "axios": "^0.26.1",
     "remixd": "^0.2.4",
     "sturdy-websocket": "^0.2.1",
-    "websocket": "^1.0.34"
+    "websocket": "^1.0.35"
   },
   "devDependencies": {
     "@microsoft/api-documenter": "^7.16.0",
